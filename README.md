@@ -24,7 +24,7 @@
    ```
 2. **Run the Game**:
    ```bash
-   python apocalyptic_city_game.py
+   python textbasedgame.py
    ```
 
 ## Requirements

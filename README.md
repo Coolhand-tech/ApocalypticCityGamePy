@@ -1,4 +1,4 @@
-# Apocalyptic City Adventure Game 🌆
+# Apocalyptic City Adventure Game 🌆🧟‍♂️
 
 **Apocalyptic City Adventure** is an immersive, text-based survival game where players must navigate the ruins of a post-apocalyptic city. Built with Python, this game challenges players to think strategically as they gather resources, avoid deadly encounters, and make life-or-death decisions in a gripping urban wasteland.
 
